@@ -35,3 +35,19 @@ King Monkey emoji:
 Viperion emoji:
 
 🐍
+
+Bunnix emoji:
+
+🐇, 🐰
+
+Carapace emoji:
+
+🐢
+
+Tiger emoji:
+
+🐅, 🐯
+
+Pig emoji:
+
+🐖, 🐷
